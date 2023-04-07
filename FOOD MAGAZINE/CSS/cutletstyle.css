@@ -1,0 +1,67 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: black;
+    } 
+h1{
+	color: white;
+	font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+    margin: 20px;
+}
+#cutlet{
+	height: 360px;
+	display: block;
+	margin:80px;
+	border: 60px solid black;}
+
+.items{
+	color: white;
+	font-family: 'Comfortaa', cursive;
+    font-family: 'Dosis', sans-serif;
+	font-size: 35px;
+	transform: translate(850px,-450px);
+}
+.items2{
+	color: rgb(181, 181, 181);
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Dosis', sans-serif;
+	transform: translate(1100px,-650px);
+	font-size: 35px;
+
+}
+.ingrediants{
+	color:white;
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Dosis', sans-serif;
+	font-size: 22px;
+	transform: translate(80px,-320px);}
+.ingred{
+	color:white;
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Dosis', sans-serif;
+	font-size: 46px;
+	transform: translate(60px,-320px);
+	margin: 10px;
+}
+
+.recip{
+	color:white;
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Dosis', sans-serif;
+	font-size: 46px;
+	transform: translate(50px,-160px);
+}
+.Recipe{
+	color:white;
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Dosis', sans-serif;
+	font-size: 25px;
+	transform: translate(50px,-140px);
+	margin: 10px;
+}
